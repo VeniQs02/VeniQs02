@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub
-- 👀 I’m interested in film editing, games, graphic design and piwo
+- 👀 Aside from coding I’m interested in video editing, video games, graphic design and piwo
 - 🌱 I’m currently learning Angular and Spring Boot
 - 💞️ I’m looking to collaborate on łamanie serc
 - 📫 Reach me on discord! My discord tag is VeniQs#5060
