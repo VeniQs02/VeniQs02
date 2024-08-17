@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jakub
 - 👀 Aside from coding I’m interested in video editing, video games, graphic design and beer
-- 🌱 I’m currently learning Angular and Spring Boot
+- 🌱 I’m currently learning more advanced Angular and Spring Boot concepts
 - 📫 Reach me on discord! My tag is VeniQs#5060
