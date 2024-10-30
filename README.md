@@ -5,4 +5,4 @@
 
 > My portfolio is pinned in my dashboard as the first project.
 > 
-> Its aviable via github pages link, for that head to the readme. 
+> Its aviable via github pages link, for that head [over here](https://veniqs02.github.io/)
