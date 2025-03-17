@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jakub
+- 💼 Currently working at 9bits with Java and Kotlin
 - 👀 Aside from coding I’m interested in video editing, video games, graphic design, cyber security and beer
 - 🌱 I’m currently learning more advanced Angular and Spring Boot concepts
 - 📫 Reach me on discord! My tag is VeniQs#5060
