@@ -1,6 +1,6 @@
 Hi, I’m Jakub
 
- 💼 Working as a Mobile Developer 
+ 💼 Working as a Mobile Developer since 2024
  
  👀 Aside from coding I’m interested in video editing, video games, graphic design, cybersec and beer
  
