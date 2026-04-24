@@ -1,13 +1,13 @@
-Hi, I’m Jakub
+# Hi, I’m Jakub
+
+### 📄 my portfolio is available [here](https://veniqs02.github.io/)
+
+### 🛠️ my latest work is pinned in my dashboard
+
 
  💼 Working as a Mobile Developer since 2024
  
- 👀 Aside from coding I’m interested in video editing, video games, graphic design, cybersec and beer
+ 💡 Aside from coding I’m interested in music, video games, graphic design, cybersec and beer
  
- 🌱 When i have some spare time I’m learning Angular and Spring Boot concepts
+ 🧭 When I have some spare time, I love to keep up with latest tech news
 
-Reach me on discord! My tag is VeniQs#5060
-
-> My portfolio is pinned in my dashboard as the first project.
-> 
-> Its aviable via github pages link, for that [head over here](https://veniqs02.github.io/)
